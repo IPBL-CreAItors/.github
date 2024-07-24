@@ -1,8 +1,5 @@
 # Moodie Talkie
 
-![10 (철환)](https://github.com/user-attachments/assets/ad1ca39a-921f-4960-b78b-b022db5babda)
-![9 (철환)](https://github.com/user-attachments/assets/73353de9-ae75-4391-a2ff-124acc6ffce1)
-
 > Supporting You through Every Emotion
 
 
@@ -19,6 +16,3 @@
 ![11 (철환)](https://github.com/user-attachments/assets/2ac00314-7ef5-4e4f-92af-189db20141e0)
 ![12 (철환)](https://github.com/user-attachments/assets/b2f0cd61-4b20-459e-9b64-aa73e75ba188)
 ![14 (철환)](https://github.com/user-attachments/assets/6f6ee964-ce2f-4618-a252-f206d7867a99)
-
-
-
